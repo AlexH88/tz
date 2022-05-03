@@ -1,0 +1,26 @@
+.list-item {
+  width: 100%;
+  position: relative;
+  margin-top: 10px;
+}
+
+.list-item-ev {
+  width: 100%;
+  position: relative;
+  margin-top: 10px;
+  padding: 20px 20px;
+  background: #e1d8cc;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.list-item-ev:hover{
+  background: #e7e3df;
+
+}
+
+.span-remove{
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
